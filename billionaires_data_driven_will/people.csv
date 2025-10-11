@@ -1,0 +1,16 @@
+person_id,name,group,age,country,financial_responsibility,loyalty_score,leadership_potential,philanthropy_alignment,legal_flags
+1,Olivia Carter,employee,56,UK,91,68,44,90,0
+2,Marcus Langley,nuclear_family,75,Brazil,58,62,53,32,0
+3,Rebecca Ortiz,nuclear_family,19,India,63,83,59,67,0
+4,Daniel Smith,nuclear_family,77,UK,60,72,87,51,0
+5,Priya Patel,employee,42,South Africa,88,66,88,71,0
+6,Li Wei,nuclear_family,77,Australia,55,54,91,91,0
+7,Amara Okafor,extended_family,68,USA,83,94,93,32,1
+8,Carlos Mendes,nuclear_family,24,UK,60,48,68,47,1
+9,Fatima Zahra,nuclear_family,77,India,53,89,38,82,0
+10,John Doe,employee,45,Australia,86,99,100,73,0
+11,Sophia Brown,nuclear_family,64,South Africa,74,53,65,79,0
+12,Ahmed Khan,nuclear_family,19,South Africa,45,93,33,83,0
+13,Emma Rossi,extended_family,35,India,65,83,63,91,1
+14,Lucas Müller,extended_family,48,Australia,87,54,91,69,0
+15,Hiro Tanaka,extended_family,62,USA,57,86,82,53,0

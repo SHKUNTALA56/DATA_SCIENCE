@@ -1,0 +1,11 @@
+asset_id,asset_name,asset_type,region,current_value_million_usd,risk_level,liquidity,mgmt_expertise_required
+1,Global Tech Stocks,stocks,Asia,144.06,Medium,Medium,1
+2,Paris Luxury Hotel,stocks,Europe,74.76,Medium,High,1
+3,Kenyan Tea Plantation,cash,Asia,41.9,Low,Medium,1
+4,Silicon Valley Startup Shares,real_estate,Latin America,387.26,Medium,High,0
+5,Dubai Art Collection,business_unit,Latin America,7.73,Low,Medium,1
+6,New York Commercial Building,cash,Latin America,354.89,Medium,Low,1
+7,Brazilian Renewable Energy Plant,art_collection,Africa,386.78,High,High,0
+8,Swiss Private Bank Account,cash,North America,182.44,High,High,0
+9,London Real Estate Fund,real_estate,North America,432.24,Low,High,1
+10,Singapore Shipping Company,business_unit,Africa,168.79,Medium,Low,0
